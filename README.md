@@ -1,5 +1,6 @@
 # JimmyKim
 · B2C Marketer(2016~)
+<br>
 · Data Analyst(2023~)
 
  ## 🔨 Tech Stack List 🔨
