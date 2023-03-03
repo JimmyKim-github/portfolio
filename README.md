@@ -6,6 +6,7 @@ Data Analyst
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
     <img src="https://img.shields.io/badge/R-EC1D24?style=for-the-badge&logo=R&logoColor=white">
     <img src="https://img.shields.io/badge/MariaDB-FFCA28?style=for-the-badge&logo=MariaDB&logoColor=white">
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
     <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white">
     <br>
     <img src="https://img.shields.io/badge/Microsoft PowerPoint-B7472A?style=for-the-badge&logo=Microsoft PowerPoint&logoColor=white">
