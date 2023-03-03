@@ -1,5 +1,6 @@
 # JimmyKim
-Data Analyst
+· B2C Marketer(2016~)
+· Data Analyst(2023~)
 
  ## 🔨 Tech Stack List 🔨
 <div style="display:flex; flex-direction:row;">
