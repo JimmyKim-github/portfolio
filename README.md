@@ -1,5 +1,5 @@
 # JimmyKim
-· B2C Marketer(2016~)
+· B2B2C Marketer(2017~)
 <br>
 · Data Analyst(2023~)
 
